@@ -1,2 +1,3 @@
 is it an animal?
 no.
+it is a person?
